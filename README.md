@@ -1,4 +1,4 @@
-# :man_technologist: Crisan Lucian 👋
+# :man_technologist: Hey 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucian-crisan%F0%9F%92%BB%F0%9F%91%8D-50a66623/)](https://www.linkedin.com/in/lucian-crisan%F0%9F%92%BB%F0%9F%91%8D-50a66623/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:)](mailto:)
